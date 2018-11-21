@@ -1,3 +1,5 @@
+**Status:** Archive (code is provided as-is, no updates expected)
+
 # Evolved Policy Gradients (EPG)
 
 The paper is located at https://arxiv.org/abs/1802.04821. A demonstration video can be found at https://youtu.be/-Z-ieH6w0LA.
